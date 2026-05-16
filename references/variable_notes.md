@@ -6,7 +6,8 @@
 ## 1. Group Variable Definition
 * **Variable Name:** `WhatIsYourSex`
 * **Definition:** Used to divide the sample into two independent groups (Female vs. Male).
-* **Coding:** * `1` = Female
+* **Coding:** 
+  * `1` = Female
   * `2` = Male
   * *Note: Missing values (NaN) were dropped.*
 
