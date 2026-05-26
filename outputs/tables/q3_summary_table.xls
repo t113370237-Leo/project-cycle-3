@@ -1,0 +1,3 @@
+Group,Sample Size (n),Sad Count (x),Proportion,Difference (F - M),95% CI,Z-Statistic,P-value
+Female,6940,2580,37.18%,14.44%,"[12.94%, 15.95%]",18.5374,1.0317e-76
+Male,6893,1567,22.73%,,,,
