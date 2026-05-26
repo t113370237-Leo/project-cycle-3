@@ -6,7 +6,7 @@ This project analyzes the 2007 Youth Risk Behavior Survey (YRBS 2007) dataset to
 By developing a structured and reproducible data science pipeline, we perform comprehensive data cleaning, variable recoding, and a formal Two-Proportion Z-Test to derive statistically sound conclusions.
 
 ## 👥 Team Information & Division of Labor
-* **Team Group:** 19
+* **Team Group:** 20
 * **李宥宣(`113370237`)**: Responsible for **Task A** (Data cleaning, missing value handling, variable recoding pipeline), **Task B** (Core statistical inference computation, automated script deployment, visualization code), and repository architecture maintenance.
 * **許皓崴(`112370236`)**: Responsible for visual presentation layout and **One-slide Summary** poster design.
 
