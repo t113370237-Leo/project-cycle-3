@@ -11,8 +11,8 @@ By developing a structured and reproducible data science pipeline, we perform co
 
 ## 👥 Team Information & Division of Labor
 * **Team Group:** 20
-* **李宥宣(`113370237`)**: Responsible for **Task A** (Data cleaning, missing value handling, variable recoding pipeline), **Task B** (Core statistical inference computation, automated script deployment, visualization code), and repository architecture maintenance.
-* **許皓崴(`112370236`)**: Responsible for visual presentation layout and **One-slide Summary** poster design.
+* **李宥宣 (`113370237`)**: Responsible for the complete analysis pipeline of the **Main Question** (including data cleaning, statistical inference, and visualization) and the **Data Cleaning & Preprocessing for the Extension Question**.
+* **許皓崴 (`112370236`)**: Responsible for generating the **Visualizations for the Extension Question** and the overall **One-slide Summary PDF** presentation design.
 
 ## 📂 Repository Structure
 This repository strictly follows standard data science workflow practices to ensure modularity and reproducibility:
